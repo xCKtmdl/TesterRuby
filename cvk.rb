@@ -1,6 +1,6 @@
 # use Point.rb ruby file
 # which defines Point class
-require "Point.rb
+require "Point.rb"
 
 # create new Point variable, p
 # initialize points to (1,2)
